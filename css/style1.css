@@ -2,6 +2,9 @@ body{
     font-family: 'Montserrat',sans-serif;
     background-color: #eee;
 }
+.navbar-toggler{
+z-index:10000;
+}
 .sidebar-link{
     transition:all .3s ease;
 }
